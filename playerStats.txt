@@ -1,0 +1,66 @@
+Player Score: 18
+Player lost round
+Player Score: 20
+Player won round
+Player Score: 19
+Player won round
+Player Score: 16
+Player won round
+
+Player Score: 18
+Player won round
+
+Player Score: 15
+Player won round
+
+Player Score: 18
+Player won round
+
+Player Score: 19
+Player won round
+
+Player Score: 13
+Player lost round
+
+Player Score: 20
+Player won round
+
+Player Score: 21
+Player won round
+
+Player Score: 27
+Player lost round
+
+Player Score: 29
+Player lost round
+
+Player Score: 21
+Player won round
+
+Player Score: 20
+Player won round
+
+Player Score: 18
+Player won round
+
+Player Score: 24
+Player lost round
+
+Player Score: 23
+Player lost round
+
+Player Score: 28
+Player lost round
+
+Player Score: 20
+Player won round
+
+Player Score: 19
+Player lost round
+
+Player Score: 22
+Player lost round
+
+Player Score: 20
+Player won round
+

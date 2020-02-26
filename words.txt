@@ -1,0 +1,11 @@
+wizard
+zombie
+dwarf
+dragon
+elven
+chimera
+hobgoblin
+weretiger
+halfling
+selkie
+skeleton
